@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Will Schmidt 👋</h1>
+<h1 align="center">Hi, I'm Will Schmidt </h1>
 
 <p align="center">
   Computer Science @ Notre Dame '28 &nbsp;·&nbsp; Software Engineering Intern @ BPN Solutions
@@ -18,7 +18,7 @@ I'm a CS student who likes building things end to end, from full-stack web apps 
 
 <!-- Feel free to edit the line above so it sounds like you. -->
 
-### 🕹️ Watch Pac-Man eat my contribution graph
+### Pac-Man
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Land784/Land784/output/pacman-contribution-graph-dark.svg">
@@ -26,14 +26,14 @@ I'm a CS student who likes building things end to end, from full-stack web apps 
   <img alt="Pac-Man eating my GitHub contribution graph" src="https://raw.githubusercontent.com/Land784/Land784/output/pacman-contribution-graph.svg">
 </picture>
 
-### 🚀 Featured Projects
+### Featured Projects
 
 - **[AI Fitness Platform](https://github.com/Land784/whoop-strava-fitness-tracker)**: Multi-user platform unifying Strava, WHOOP, and Dexcom G7 glucose data, with Claude layered on top for training plans and natural-language coaching. *FastAPI · PostgreSQL · Next.js · Docker*
 - **[GameDeck](https://github.com/Land784/GameDeck)**: Windows system-tray app for in-game music control and YouTube ad-skipping via global hotkeys and a click-through overlay. *C# · .NET 8 · WPF · Win32*
 - **[News Sentiment Stock Predictor](https://github.com/Land784/news-sentiment-stock-predictor)**: PyTorch model predicting next-day price movement from market data plus FinBERT news sentiment. *PyTorch · FinBERT · pandas*
 - **[git-cola contribution](https://github.com/git-cola/git-cola/pull/1621)**: Upstream-merged safety feature adding a diff preview to the revert confirmation dialog. *Python · Qt · Git*
 
-### 🛠️ Tech
+### Tech
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
